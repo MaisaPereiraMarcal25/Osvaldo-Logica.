@@ -1,0 +1,20 @@
+S = (D v A ^ C) v ~(B v C) 
+s=( F v V ^ F) v~( V v V )
+S=(V ^ F) v ~ V
+S=F v ~ V
+S= V 
+
+
+ S = ~(A v B)
+S=~ F v V
+S=V
+
+
+S = ~(A ^ B)
+S=~ F ^ V
+S=F
+
+S = C v ~B ^ (A v ~D)
+S=F v ~ F ^ (V v ~ F)
+S=F ^ V 
+S=V
